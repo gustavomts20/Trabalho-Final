@@ -1,7 +1,7 @@
 # Introdução
 
 Este Código em Python implementa um analisador léxico, sintático e semântico usando
-a biblioteca PLY (Python Lex-Yacc). Serve para analisar e executar uma série de operações baseadas na linguagem C,
+a biblioteca PLY. Serve para analisar e executar uma série de operações baseadas na linguagem C,
 que incluem declarações de variáveis, atribuições, e estruturas de controle como laços e condicionais.
 
 Para executar o código, é necessário instalar a biblioteca PLY para Python.
