@@ -14,7 +14,7 @@ Para executar o código, é necessário instalar a biblioteca PLY para Python.
 
 # Execução
 
-python compilador.py
+`python compilador.py`
 
 # Estrutura do Código
 
